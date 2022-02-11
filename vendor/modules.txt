@@ -101,7 +101,7 @@ github.com/containers/storage/pkg/stringutils
 github.com/containers/storage/pkg/system
 github.com/containers/storage/pkg/tarlog
 github.com/containers/storage/pkg/truncindex
-# github.com/docker/distribution v2.7.1-0.20190205005809-0d3efadf0154+incompatible
+# github.com/docker/distribution v2.8.0+incompatible
 github.com/docker/distribution
 github.com/docker/distribution/digestset
 github.com/docker/distribution/metrics
